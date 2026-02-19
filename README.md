@@ -79,14 +79,6 @@ Building intelligent automation systems, full-stack web apps, and algorithmic tr
 
 ---
 
-## 📊 GitHub Stats
-
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyler-Irving&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d2ef&icon_color=00d2ef&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyler-Irving&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d2ef&text_color=c9d1d9)
-
----
-
 ## 🚀 Featured Projects
 
 - **[Kalshi Weather Trading Dashboard](https://github.com/Tyler-Irving/kalshi-weather-arbitrage-dashboard)** - React + Django dashboard for monitoring weather arbitrage positions
