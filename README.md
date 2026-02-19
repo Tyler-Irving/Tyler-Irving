@@ -106,5 +106,3 @@ Building intelligent automation systems, full-stack web apps, and algorithmic tr
 ---
 
 💼 **Currently:** Senior RPA Developer @ Baker Tilly | Building automation solutions for defense & government modernization
-
-🎯 **Open to:** Remote Django/Python Backend roles | $120k+ | Secret Clearance projects
